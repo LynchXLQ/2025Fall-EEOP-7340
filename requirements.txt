@@ -1,0 +1,11 @@
+# LightyNode Tutorial Requirements
+# Python packages required for the optical network simulation tutorials
+
+# Docker management
+docker>=6.0.0
+
+# HTTP requests for RESTCONF operations
+requests>=2.31.0
+
+# SSL/TLS warnings suppression
+urllib3>=2.0.0
