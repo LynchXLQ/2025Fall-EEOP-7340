@@ -19,9 +19,8 @@ SSH into your Linux server first, then:
 python3 -m venv venv
 source venv/bin/activate
 
-# Install Jupyter Lab and dependencies
+# Install Jupyter Lab
 pip install jupyterlab
-pip install -r requirements.txt
 ```
 
 ### 2. Start Jupyter Lab on Linux Server
